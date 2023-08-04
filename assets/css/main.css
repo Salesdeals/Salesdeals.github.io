@@ -1,5 +1,6 @@
 @import url(font-awesome.min.css);
 @import url(https://fonts.googleapis.com/css?family=Pattaya|Work+Sans:400,200,300);
+@import url(sansation_bold.wolff);
 
 /*
 	Radius by TEMPLATED
@@ -1390,6 +1391,19 @@
 		#main .inner {
 			max-width: 100%;
 		}
+
+		.item-name {
+			display: block;
+      font-family: myFirstFont;
+      color: rgba(1, 12, 1, 0.916) 
+      font-weight: bold;
+      font-size: 1.2em;
+      font-style: normal;
+      background-color: #e4f35c;
+      }
+      .item-price {
+      color: red;
+      }
 
 /* Footer */
 
