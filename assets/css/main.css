@@ -1395,7 +1395,7 @@
 		.item-name {
 			display: block;
       font-family: myFirstFont;
-      color: rgba(1, 12, 1, 0.916) 
+      color: black; 
       font-weight: bold;
       font-size: 1.2em;
       font-style: normal;
